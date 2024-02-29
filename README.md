@@ -167,4 +167,4 @@ _Best way to check if all resources are gone is going to "All resources" from th
 <p align="center">
 <img src="https://i.imgur.com/gVnbWJS.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
-  
+  <h2><p align=center>Next Demonstration:<br><a href="https://github.com/SeunOgun/configure-ad">Configuring On-Premises Active Directory within Azure VMs</a></p></h2>
